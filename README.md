@@ -9,4 +9,4 @@ To understand all the functions that it has, this is a little guide:
 
 1- The first screen it's considered the best way to load the entire database or access to it thanks to the StartButton.
 
-![Image text](https://raw.githubusercontent.com/SergYeah55/GestorLockesDiamantePerla/master/IMAGES_README/IMG1.png)
+![Image text](https://raw.githubusercontent.com/SergYeah55/GestorLockesDiamantePerla/master/IMAGES/IMG1.png)
