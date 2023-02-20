@@ -1,0 +1,392 @@
+  [
+    {
+      "nombre":"Pueblo Hoja Verde",
+      "numero":"1",
+      "version":"0",
+      "pokemones":"Psyduck,Golduck,Magikarp,Goldeen"
+    },
+    {
+      "nombre":"Lago Veraz",
+      "numero":"2",
+      "version":"0",
+      "pokemones":"Turtwig,Chimchar,Piplup,Starly,Bidoof,Psyduck,Golduck,Magikarp,Goldeen,Gyarados,Seaking"
+    },
+    {
+      "nombre":"Ruta 201",
+      "numero":"3",
+      "version":"0",
+      "pokemones":"Starly,Bidoof"
+    },
+    {
+      "nombre":"Ruta 202",
+      "numero":"4",
+      "version":"0",
+      "pokemones":"Starly,Bidoof,Kricketot,Shinx"
+    },
+    {
+      "nombre":"Ruta 203",
+      "numero":"4",
+      "version":"0",
+      "pokemones":"Starly,Bidoof,Kricketot,Shinx,Abra,Zubat,Psyduck,Golduck,Magikarp,Goldeen,Gyarados,Seaking"
+    },
+    {
+      "nombre":"Ruta 204",
+      "numero":"5",
+      "version":"0",
+      "pokemones":"Starly,Budew,Bidoof,Kricketot,Shinx,Zubat,Psyduck,Golduck,Magikarp,Goldeen,Gyarados,Seaking"
+    },
+    {
+      "nombre":"Ruta 218",
+      "numero":"6",
+      "version":"1",
+      "pokemones":"Floatzel,Shellos,Gastrodon,Wingull,Tentacool,Tentacruel,Pelipper,Magikarp,Finneon,Gyarados,Lumineon,Mr. Mime"
+    },
+    {
+      "nombre":"Ruta 218",
+      "numero":"6",
+      "version":"2",
+      "pokemones":"Floatzel,Shellos,Gastrodon,Wingull,Tentacool,Tentacruel,Pelipper,Magikarp,Finneon,Gyarados,Lumineon,Glameow"
+    },
+    {
+      "nombre":"Puerta Pirita",
+      "numero":"7",
+      "version":"0",
+      "pokemones":"Zubat,Geodude,Psyduck,Magikarp,Barboach,Golbat,Golduck"
+    },
+    {
+      "nombre":"Ciudad Pirita",
+      "numero":"8",
+      "version":"1",
+      "pokemones":"Cranidos"
+    },
+    {
+      "nombre":"Ciudad Pirita",
+      "numero":"8",
+      "version":"2",
+      "pokemones":"Shieldon"
+    },
+    {
+      "nombre":"Ruta 207",
+      "numero":"9",
+      "version":"0",
+      "pokemones":"Geodude,Machop,Kricketot,Zubat"
+    },
+    {
+      "nombre":"Mina Pirita",
+      "numero":"10",
+      "version":"0",
+      "pokemones":"Zubat,Geodude,Onix"
+    },
+    {
+      "nombre":"Senda Desolada",
+      "numero":"11",
+      "version":"0",
+      "pokemones":"Zubat,Geodude,Psyduck,Magikarp,Barboach,Gyarados,Whiscash,Golbat,Golduck"
+    },
+    {
+      "nombre":"Ruta 205",
+      "numero":"12",
+      "version":"0",
+      "pokemones":"Shellos,Buizel,Bidoof,Pachirisu,Tentacool,Wingull,Tentacruel,Pelipper,Magikarp,Barboach,Finneon,Gyarados,Whiscash,Lumineon,Psyduck,Golduck"
+    },
+    {
+      "nombre":"Valle Eólico",
+      "numero":"13",
+      "version":"0",
+      "pokemones":"Bidoof,Pachirisu,Buizel,Shellos,Tentacool,Tentacruel,Wingull,Pelipper,Magikarp,Finneon,Gyarados,Lumineon,Drifloon"
+    },
+    {
+      "nombre":"Forja Fuego",
+      "numero":"14",
+      "version":"0",
+      "pokemones":"Wingull,Shinx,Luxio,Pachirisu,Floatzel,Shellos,Gastrodon,Tentacool,Tentacruel,Pelipper,Magikarp,Finneon"
+    },
+    {
+      "nombre":"Bosque Vetusto",
+      "numero":"15",
+      "version":"1",
+      "pokemones":"Buneary,Silcoon,Beautifly,Wurmple,Budew,Murkrow"
+    },
+    {
+      "nombre":"Bosque Vetusto",
+      "numero":"15",
+      "version":"2",
+      "pokemones":"Buneary,Cascoon,Dustox,Wurmple,Budew,Misdreavus"
+    },
+    {
+      "nombre":"Vieja Mansion",
+      "numero":"16",
+      "version":"0",
+      "pokemones":"Gastly"
+    },
+    {
+      "nombre":"Ciudad Vetusta",
+      "numero":"17",
+      "version":"0",
+      "pokemones":"Psyduck,Golduck,Magikarp,Barboach"
+    },
+    {
+      "nombre":"Ruta 211",
+      "numero":"18",
+      "version":"0",
+      "pokemones":"Meditite,Bidoof,Geodude,Ponyta,Chingling,Zubat,Hoothoot,Machoke,Graveler,Noctowl"
+    },
+    {
+      "nombre":"Monte Corona",
+      "numero":"19",
+      "version":"0",
+      "pokemones":"Machop,Cleffa,Geodude,Zubat,Meditite,Chingling,Golbat,Magikarp,Barboach,Gyarados,Whiscash,Graveler,Clefairy,Machoke,Bronzong,Medicham,Bronzor"
+    },
+    {
+      "nombre":"Ruta 206",
+      "numero":"20",
+      "version":"1",
+      "pokemones":"Ponyta,Geodude,Kricketot,Kricketune,Bronzor,Zubat,Stunky"
+    },
+    {
+      "nombre":"Ruta 206",
+      "numero":"20",
+      "version":"2",
+      "pokemones":"Ponyta,Geodude,Kricketot,Kricketune,Bronzor,Zubat"
+    },
+    {
+      "nombre":"Cueva Extravío",
+      "numero":"21",
+      "version":"0",
+      "pokemones":"Zubat,Geodude,Bronzor,Gible"
+    },
+    {
+      "nombre":"Ruta 208",
+      "numero":"22",
+      "version":"0",
+      "pokemones":"Psyduck,Meditite,Machop,Bidoof,Bibarel,Zubat,Golduck,Magikarp,Barboach,Gyarados,Whiscash"
+    },
+    {
+      "nombre":"Ciudad Corazón",
+      "numero":"23",
+      "version":"0",
+      "pokemones":"Happiny"
+    },
+    {
+      "nombre":"Ruta 212",
+      "numero":"24",
+      "version":"0",
+      "pokemones":"Budew,Starly,Kricketune,Staravia,Roselia,Psyduck,Golduck,Magikarp,Goldeen,Gyarados,Seaking,Bibarel,Wooper,Quagsire,Barboach,Whiscash"
+    },
+    {
+      "nombre":"Jardín Trofeo",
+      "numero":"25",
+      "version":"0",
+      "pokemones":"Pikachu,Roselia,Pichu,Staravia,Kricketune"
+    },
+    {
+      "nombre":"Ruta 209",
+      "numero":"26",
+      "version":"1",
+      "pokemones":"Bibarel,Starly,Staravia,Chansey,Zubat,Gastly,Psyduck,Golduck,Magikarp,Goldeen,Gyarados,Seaking,Mime Jr."
+    },
+    {
+      "nombre":"Ruta 209",
+      "numero":"26",
+      "version":"2",
+      "pokemones":"Bibarel,Starly,Staravia,Chansey,Zubat,Gastly,Psyduck,Golduck,Magikarp,Goldeen,Gyarados,Seaking,Bonsly"
+    },
+    {
+      "nombre":"Torre Perdida",
+      "numero":"27",
+      "version":"1",
+      "pokemones":"Gastly,Zubat,Murkrow,Golbat"
+    },
+    {
+      "nombre":"Torre Perdida",
+      "numero":"27",
+      "version":"2",
+      "pokemones":"Gastly,Zubat,Misdreavus,Golbat"
+    },
+    {
+      "nombre":"Ruta 210",
+      "numero":"28",
+      "version":"1",
+      "pokemones":"Mime Jr.,Meditite,Psyduck,Machop,Bibarel,Machoke,Hoothoot,Noctowl,Golduck,Magikarp,Barboach,Gyarados,Whiscash,Geodude,Ponyta,Kricketune,Chansey"
+    },
+    {
+      "nombre":"Ruta 210",
+      "numero":"28",
+      "version":"2",
+      "pokemones":"Bonsly,Meditite,Psyduck,Machop,Bibarel,Machoke,Hoothoot,Noctowl,Golduck,Magikarp,Barboach,Gyarados,Whiscash,Geodude,Ponyta,Kricketune,Chansey"
+    },
+    {
+      "nombre":"Ruta 215",
+      "numero":"29",
+      "version":"0",
+      "pokemones":"Geodude,Ponyta,Kadabra,Abra,Kricketune"
+    },
+    {
+      "nombre":"Ruta 214",
+      "numero":"30",
+      "version":"1",
+      "pokemones":"Stunky,Ponyta,Geodude,Graveler,Girafarig,Kricketune,Psyduck,Golduck,Magikarp,Goldeen,Gyarados,Seaking"
+    },
+    {
+      "nombre":"Ruta 214",
+      "numero":"30",
+      "version":"2",
+      "pokemones":"Sudowoodo,Ponyta,Geodude,Graveler,Girafarig,Kricketune,Psyduck,Golduck,Magikarp,Goldeen,Gyarados,Seaking"
+    },
+    {
+      "nombre":"Mina Ruinamaníaco",
+      "numero":"31",
+      "version":"0",
+      "pokemones":"Geodude,Hippopotas"
+    },
+    {
+      "nombre":"Vía Manantial",
+      "numero":"32",
+      "version":"0",
+      "pokemones":"Graveler,Bibarel,Dusclops,Staravia,Girafarig,Chingling,Golbat,Golduck,Magikarp,Goldeen"
+    },
+    {
+      "nombre":"Fuente Despedida",
+      "numero":"33",
+      "version":"0",
+      "pokemones":"Bibarel,Staravia,Chimecho,Golbat,Psyduck,Golduck,Magikarp,Lumineon,Goldeen,Seaking"
+    },
+    {
+      "nombre":"Cueva Retorno",
+      "numero":"34",
+      "version":"0",
+      "pokemones":"Golbat,Haunter,Bronzor,Bronzong"
+    },
+    {
+      "nombre":"Orilla Valor",
+      "numero":"35",
+      "version":"0",
+      "pokemones":"Bibarel,Geodude,Girafarig,Graveler,Kricketune,Staravia"
+    },
+    {
+      "nombre":"Ruta 213",
+      "numero":"36",
+      "version":"0",
+      "pokemones":"Shellos,Buizel,Wingull,Floatzel,Tentacool,Tentacruel,Pelipper,Magikarp,Remoraid,Gyarados,Octillery"
+    },
+    {
+      "nombre":"Ciudad Pradera",
+      "numero":"37",
+      "version":"0",
+      "pokemones":"Tentacool,Tentacruel,Wingull,Pelipper,Magikarp,Remoraid"
+    },
+    {
+      "nombre":"Gran Pantano",
+      "numero":"38",
+      "version":"0",
+      "pokemones":"Psyduck,Marill,Wooper,Quagsire,Azurill,Bidoof,Bibarel,Skorupi,Starly,Budew,Hothoot,Noctowl,Golduck,Roselia,Staravia,Croagunk,Carnivine,"
+    },
+    {
+      "nombre":"Ciudad Canal",
+      "numero":"39",
+      "version":"0",
+      "pokemones":"Tentacool,Tentacruel,Shellos,Magikarp,Finneon"
+    },
+    {
+      "nombre":"Isla Hierro",
+      "numero":"40",
+      "version":"0",
+      "pokemones":"Riolu,Geodude,Graveler,Onix,Steelix,Zubat,Golbat,Crobat,Magikarp,Gyarados,Finneon,Lumineon"
+    },
+    {
+      "nombre":"Lago Valor",
+      "numero":"41",
+      "version":"0",
+      "pokemones":"Psyduck,Golduck,Bibarel,Chingling,Staravia,Noctowl,Magikarp,Gyarados,Goldeen,Seaking"
+    },
+    {
+      "nombre":"Ruta 216",
+      "numero":"42",
+      "version":"0",
+      "pokemones":"Sneasel,Snover,Machoke,Meditite,Graveler,Zubat,Noctowl"
+    },
+    {
+      "nombre":"Ruta 217",
+      "numero":"43",
+      "version":"0",
+      "pokemones":"Sneasel,Snover,Machoke,Medicham,Meditite,Zubat,Noctowl"
+    },
+    {
+      "nombre":"Orilla Agudeza",
+      "numero":"44",
+      "version":"0",
+      "pokemones":"Meditite,Medicham,Snover,Machoke,Sneasel,Zubat,Noctowl"
+    },
+    {
+      "nombre":"Lago Agudeza",
+      "numero":"45",
+      "version":"0",
+      "pokemones":"Chingling,Sneasel,Psyduck,Bibarel,Noctowl"
+    },
+    {
+      "nombre":"Ruta 219",
+      "numero":"46",
+      "version":"0",
+      "pokemones":"Tentacool,Wingull,Tentacruel,Pelipper,Magikarp,Finneon,Gyarados,Lumineon"
+    },
+    {
+      "nombre":"Ruta 220",
+      "numero":"47",
+      "version":"0",
+      "pokemones":"Tentacool,Wingull,Tentacruel,Pelipper,Magikarp,Finneon,Gyarados,Lumineon"
+    },
+    {
+      "nombre":"Ruta 221",
+      "numero":"48",
+      "version":"1",
+      "pokemones":"Stunky,Skuntank,Gastrodon,Floatzel,Wingull,Roselia,Shellos,Tentacool,Tentacruel,Pelipper,Magikarp,Finneon,Gyarados,Lumineon"
+    },
+    {
+      "nombre":"Ruta 221",
+      "numero":"48",
+      "version":"2",
+      "pokemones":"Sudowoodo,Gastrodon,Floatzel,Wingull,Roselia,Shellos,Tentacool,Tentacruel,Pelipper,Magikarp,Finneon,Gyarados,Lumineon"
+    },
+    {
+      "nombre":"Ruta 222",
+      "numero":"49",
+      "version":"1",
+      "pokemones":"Mr. Mime,Gastrodon,Floatzel,Chatot,Wingull,Luxio,Pelipper,Tentacool,Tentacruel,Magikarp,Remoraid,Gyarados,Octillery"
+    },
+    {
+      "nombre":"Ruta 222",
+      "numero":"49",
+      "version":"2",
+      "pokemones":"Glameow,Purugly,Gastrodon,Floatzel,Chatot,Wingull,Luxio,Pelipper,Tentacool,Tentacruel,Magikarp,Remoraid,Gyarados,Octillery"
+    },
+    {
+      "nombre":"Ciudad Marina",
+      "numero":"50",
+      "version":"0",
+      "pokemones":"Tentacruel,Pelipper,Mantyke,Magikarp,Remoraid"
+    },
+    {
+      "nombre":"Ruta 223",
+      "numero":"51",
+      "version":"0",
+      "pokemones":"Tentacruel,Pelipper,Mantyke,Magikarp,Remoraid,Gyarados,Octillery"
+    },
+    {
+      "nombre":"Calle Victoria",
+      "numero":"52",
+      "version":"0",
+      "pokemones":"Golbat,Floatzel,Medicham,Onix,Steelix,Graveler,Machoke,Kadabra,Magikarp,Gyarados"
+    },
+    {
+      "nombre":"Ruta 224",
+      "numero":"53",
+      "version":"1",
+      "pokemones":"Beautifly,Roselia,Floatzel,Gastrodon,Chatot,Buizel,Shellos,Pelipper,Tentacruel,Magikarp,Remoraid,Gyarados,Octillery"
+    },
+    {
+      "nombre":"Ruta 224",
+      "numero":"53",
+      "version":"2",
+      "pokemones":"Dustox,Roselia,Floatzel,Gastrodon,Chatot,Buizel,Shellos,Pelipper,Tentacruel,Magikarp,Remoraid,Gyarados,Octillery"
+    }
+  ]

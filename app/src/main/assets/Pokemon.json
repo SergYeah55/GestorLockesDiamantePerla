@@ -1,0 +1,1415 @@
+[
+  {
+    "nombre": "Turtwig",
+    "numero": "1",
+    "version": "2",
+    "sexo": "Indiferente",
+    "tipo1": "Planta",
+    "tipo2": "NULL",
+    "forma": "-1"
+  },
+  {
+    "nombre": "Grotle",
+    "numero": "2",
+    "version": "2",
+    "sexo": "Indiferente",
+    "tipo1": "Planta",
+    "tipo2": "NULL",
+    "forma": "-1"
+  },
+  {
+    "nombre": "Torterra",
+    "numero": "3",
+    "version": "2",
+    "sexo": "Indiferente",
+    "tipo1": "Planta",
+    "tipo2": "Tierra",
+    "forma": "-1"
+  },
+  {
+    "nombre": "Chimchar",
+    "numero": "4",
+    "version": "2",
+    "sexo": "Indiferente",
+    "tipo1": "Fuego",
+    "tipo2": "NULL",
+    "forma": "-1"
+  },
+  {
+    "nombre": "Monferno",
+    "numero": "5",
+    "version": "2",
+    "sexo": "Indiferente",
+    "tipo1": "Fuego",
+    "tipo2": "Lucha",
+    "forma": "-1"
+  },
+  {
+    "nombre": "Infernape",
+    "numero": "6",
+    "version": "2",
+    "sexo": "Indiferente",
+    "tipo1": "Fuego",
+    "tipo2": "Lucha",
+    "forma": "-1"
+  },
+  {
+    "nombre": "Piplup",
+    "numero": "7",
+    "version": "2",
+    "sexo": "Indiferente",
+    "tipo1": "Agua",
+    "tipo2": "NULL",
+    "forma": "-1"
+  },
+  {
+  "nombre": "Prinplup",
+  "numero": "8",
+  "version": "2",
+    "sexo": "Indiferente",
+    "tipo1": "Agua",
+    "tipo2": "NULL",
+    "forma": "-1"
+  },
+  {
+  "nombre": "Empoleon",
+  "numero": "9",
+  "version": "2",
+    "sexo": "Indiferente",
+    "tipo1": "Agua",
+    "tipo2": "Acero",
+    "forma": "-1"
+  },
+  {
+    "nombre": "Starly",
+    "numero": "10",
+    "version": "2",
+    "sexo": "Indiferente",
+    "tipo1": "Normal",
+    "tipo2": "Volador",
+    "forma": "-1"
+  },
+  {
+    "nombre": "Staravia",
+    "numero": "11",
+    "version": "2",
+    "sexo": "Indiferente",
+    "tipo1": "Normal",
+    "tipo2": "Volador",
+    "forma": "-1"
+  },
+  {
+    "nombre": "Staraptor",
+    "numero": "12",
+    "version": "2",
+    "sexo": "Indiferente",
+    "tipo1": "Normal",
+    "tipo2": "Volador",
+    "forma": "-1"
+  },
+  {
+    "nombre": "Bidoof",
+    "numero": "13",
+    "version": "2",
+    "sexo": "Indiferente",
+    "tipo1": "Normal",
+    "tipo2": "NULL",
+    "forma": "-1"
+  },
+  {
+    "nombre": "Bibarel",
+    "numero": "14",
+    "version": "2",
+    "sexo": "Indiferente",
+    "tipo1": "Normal",
+    "tipo2": "Agua",
+    "forma": "-1"
+  },
+  {
+    "nombre": "Kricketot",
+    "numero": "15",
+    "version": "2",
+    "sexo": "Indiferente",
+    "tipo1": "Bicho",
+    "tipo2": "NULL",
+    "forma": "-1"
+  },
+  {
+    "nombre": "Kricketune",
+    "numero": "16",
+    "version": "2",
+    "sexo": "Indiferente",
+    "tipo1": "Bicho",
+    "tipo2": "NULL",
+    "forma": "-1"
+  },
+  {
+    "nombre": "Shinx",
+    "numero": "17",
+    "version": "2",
+    "sexo": "Indiferente",
+    "tipo1": "Electrico",
+    "tipo2": "NULL",
+    "forma": "-1"
+  },
+  {
+    "nombre": "Luxio",
+    "numero": "18",
+    "version": "2",
+    "sexo": "Indiferente",
+    "tipo1": "Electrico",
+    "tipo2": "NULL",
+    "forma": "-1"
+  },
+  {
+    "nombre": "Luxray",
+    "numero": "19",
+    "version": "2",
+    "sexo": "Indiferente",
+    "tipo1": "Electrico",
+    "tipo2": "NULL",
+    "forma": "-1"
+  },
+  {
+    "nombre": "Abra",
+    "numero": "20",
+    "version": "2",
+    "sexo": "Indiferente",
+    "tipo1": "Psiquico",
+    "tipo2": "NULL",
+    "forma": "-1"
+  },
+  {
+    "nombre": "Kadabra",
+    "numero": "21",
+    "version": "2",
+    "sexo": "Indiferente",
+    "tipo1": "Psiquico",
+    "tipo2": "NULL",
+    "forma": "-1"
+  },
+  {
+    "nombre": "Alakazam",
+    "numero": "22",
+    "version": "2",
+    "sexo": "Indiferente",
+    "tipo1": "Psiquico",
+    "tipo2": "NULL",
+    "forma": "-1"
+  },
+  {
+    "nombre": "Magikarp",
+    "numero": "23",
+    "version": "2",
+    "sexo": "Indiferente",
+    "tipo1": "Agua",
+    "tipo2": "NULL",
+    "forma": "-1"
+  },
+  {
+    "nombre": "Gyarados",
+    "numero": "24",
+    "version": "2",
+    "sexo": "Indiferente",
+    "tipo1": "Agua",
+    "tipo2": "Volador",
+    "forma": "-1"
+  },
+  {
+    "nombre": "Budew",
+    "numero": "25",
+    "version": "2",
+    "sexo": "Indiferente",
+    "tipo1": "Planta",
+    "tipo2": "Veneno",
+    "forma": "-1"
+  },
+  {
+    "nombre": "Roselia",
+    "numero": "26",
+    "version": "2",
+    "sexo": "Indiferente",
+    "tipo1": "Planta",
+    "tipo2": "Veneno",
+    "forma": "-1"
+  },
+  {
+    "nombre": "Roserade",
+    "numero": "27",
+    "version": "2",
+    "sexo": "Indiferente",
+    "tipo1": "Planta",
+    "tipo2": "Veneno",
+    "forma": "-1"
+  },
+  {
+    "nombre": "Zubat",
+    "numero": "28",
+    "version": "2",
+    "sexo": "Indiferente",
+    "tipo1": "Veneno",
+    "tipo2": "Volador",
+    "forma": "-1"
+  },
+  {
+    "nombre": "Golbat",
+    "numero": "29",
+    "version": "2",
+    "sexo": "Indiferente",
+    "tipo1": "Veneno",
+    "tipo2": "Volador",
+    "forma": "-1"
+  },
+  {
+    "nombre": "Crobat",
+    "numero": "30",
+    "version": "2",
+    "sexo": "Indiferente",
+    "tipo1": "Veneno",
+    "tipo2": "Volador",
+    "forma": "-1"
+  },
+  {
+    "nombre": "Geodude",
+    "numero": "31",
+    "version": "2",
+    "sexo": "Indiferente",
+    "tipo1": "Roca",
+    "tipo2": "Tierra",
+    "forma": "-1"
+  },
+  {
+    "nombre": "Graveler",
+    "numero": "32",
+    "version": "2",
+    "sexo": "Indiferente",
+    "tipo1": "Roca",
+    "tipo2": "Tierra",
+    "forma": "-1"
+  },
+  {
+    "nombre": "Golem",
+    "numero": "33",
+    "version": "2",
+    "sexo": "Indiferente",
+    "tipo1": "Roca",
+    "tipo2": "Tierra",
+    "forma": "-1"
+  },
+  {
+    "nombre": "Onix",
+    "numero": "34",
+    "version": "2",
+    "sexo": "Indiferente",
+    "tipo1": "Roca",
+    "tipo2": "Tierra",
+    "forma": "-1"
+  },
+  {
+    "nombre": "Steelix",
+    "numero": "35",
+    "version": "2",
+    "sexo": "Indiferente",
+    "tipo1": "Acero",
+    "tipo2": "Tierra",
+    "forma": "-1"
+  },
+  {
+    "nombre": "Cranidos",
+    "numero": "36",
+    "version": "0",
+    "sexo": "Indiferente",
+    "tipo1": "Roca",
+    "tipo2": "NULL",
+    "forma": "-1"
+  },
+  {
+    "nombre": "Rampardos",
+    "numero": "37",
+    "version": "0",
+    "sexo": "Indiferente",
+    "tipo1": "Roca",
+    "tipo2": "NULL",
+    "forma": "-1"
+  },
+  {
+    "nombre": "Shieldon",
+    "numero": "38",
+    "version": "1",
+    "sexo": "Indiferente",
+    "tipo1": "Roca",
+    "tipo2": "Acero",
+    "forma": "-1"
+  },
+  {
+    "nombre": "Bastiodon",
+    "numero": "39",
+    "version": "1",
+    "sexo": "Indiferente",
+    "tipo1": "Roca",
+    "tipo2": "Acero",
+    "forma": "-1"
+  },
+  {
+    "nombre": "Machop",
+    "numero": "40",
+    "version": "2",
+    "sexo": "Indiferente",
+    "tipo1": "Lucha",
+    "tipo2": "NULL",
+    "forma": "-1"
+  },
+  {
+    "nombre": "Machoke",
+    "numero": "41",
+    "version": "2",
+    "sexo": "Indiferente",
+    "tipo1": "Lucha",
+    "tipo2": "NULL",
+    "forma": "-1"
+  },
+  {
+    "nombre": "Machamp",
+    "numero": "42",
+    "version": "2",
+    "sexo": "Indiferente",
+    "tipo1": "Lucha",
+    "tipo2": "NULL",
+    "forma": "-1"
+  },
+  {
+    "nombre": "Psyduck",
+    "numero": "43",
+    "version": "2",
+    "sexo": "Indiferente",
+    "tipo1": "Agua",
+    "tipo2": "NULL",
+    "forma": "-1"
+  },
+  {
+    "nombre": "Golduck",
+    "numero": "44",
+    "version": "2",
+    "sexo": "Indiferente",
+    "tipo1": "Agua",
+    "tipo2": "NULL",
+    "forma": "-1"
+  },
+  {
+    "nombre": "Burmy",
+    "numero": "45",
+    "version": "2",
+    "sexo": "Indiferente",
+    "tipo1": "Bicho",
+    "tipo2": "NULL",
+    "forma": "0"
+  },
+  {
+    "nombre": "Burmy",
+    "numero": "45",
+    "version": "2",
+    "sexo": "Indiferente",
+    "tipo1": "Bicho",
+    "tipo2": "NULL",
+    "forma": "1"
+  },
+  {
+    "nombre": "Burmy",
+    "numero": "45",
+    "version": "2",
+    "sexo": "Indiferente",
+    "tipo1": "Bicho",
+    "tipo2": "NULL",
+    "forma": "2"
+  },
+  {
+    "nombre": "Wormadam",
+    "numero": "46",
+    "version": "2",
+    "sexo": "Indiferente",
+    "tipo1": "Bicho",
+    "tipo2": "Planta",
+    "forma": "0"
+  },
+  {
+    "nombre": "Wormadam",
+    "numero": "46",
+    "version": "2",
+    "sexo": "Indiferente",
+    "tipo1": "Bicho",
+    "tipo2": "Tierra",
+    "forma": "1"
+  },
+  {
+    "nombre": "Wormadam",
+    "numero": "46",
+    "version": "2",
+    "sexo": "Indiferente",
+    "tipo1": "Bicho",
+    "tipo2": "Acero",
+    "forma": "2"
+  },
+  {
+    "nombre": "Mothim",
+    "numero": "47",
+    "version": "2",
+    "sexo": "Indiferente",
+    "tipo1": "Bicho",
+    "tipo2": "Volador",
+    "forma": "-1"
+  },
+  {
+    "nombre": "Wurmple",
+    "numero": "48",
+    "version": "2",
+    "sexo": "Indiferente",
+    "tipo1": "Bicho",
+    "tipo2": "NULL",
+    "forma": "-1"
+  },
+  {
+    "nombre": "Silcoon",
+    "numero": "49",
+    "version": "2",
+    "sexo": "Indiferente",
+    "tipo1": "Bicho",
+    "tipo2": "NULL",
+    "forma": "-1"
+  },
+  {
+    "nombre": "Beautifly",
+    "numero": "50",
+    "version": "2",
+    "sexo": "Indiferente",
+    "tipo1": "Bicho",
+    "tipo2": "Volador",
+    "forma": "-1"
+  },
+  {
+    "nombre": "Cascoon",
+    "numero": "51",
+    "version": "2",
+    "sexo": "Indiferente",
+    "tipo1": "Bicho",
+    "tipo2": "NULL",
+    "forma": "-1"
+  },
+  {
+    "nombre": "Dustox",
+    "numero": "52",
+    "version": "2",
+    "sexo": "Indiferente",
+    "tipo1": "Bicho",
+    "tipo2": "Veneno",
+    "forma": "-1"
+  },
+  {
+    "nombre": "Combee",
+    "numero": "53",
+    "version": "2",
+    "sexo": "Indiferente",
+    "tipo1": "Bicho",
+    "tipo2": "Volador",
+    "forma": "-1"
+  },
+  {
+    "nombre": "Vespiqueen",
+    "numero": "54",
+    "version": "2",
+    "sexo": "Indiferente",
+    "tipo1": "Bicho",
+    "tipo2": "Volador",
+    "forma": "-1"
+  },
+  {
+    "nombre": "Pachirisu",
+    "numero": "55",
+    "version": "2",
+    "sexo": "Indiferente",
+    "tipo1": "Electrico",
+    "tipo2": "NULL",
+    "forma": "-1"
+  },
+  {
+    "nombre": "Buizel",
+    "numero": "56",
+    "version": "2",
+    "sexo": "Indiferente",
+    "tipo1": "Agua",
+    "tipo2": "NULL",
+    "forma": "-1"
+  },
+  {
+    "nombre": "Floatzel",
+    "numero": "57",
+    "version": "2",
+    "sexo": "Indiferente",
+    "tipo1": "Agua",
+    "tipo2": "NULL",
+    "forma": "-1"
+  },
+  {
+    "nombre": "Cherubi",
+    "numero": "58",
+    "version": "2",
+    "sexo": "Indiferente",
+    "tipo1": "Planta",
+    "tipo2": "NULL",
+    "forma": "-1"
+  },
+  {
+    "nombre": "Cherrim",
+    "numero": "59",
+    "version": "2",
+    "sexo": "Indiferente",
+    "tipo1": "Planta",
+    "tipo2": "NULL",
+    "forma": "-1"
+  },
+  {
+    "nombre": "Shellos",
+    "numero": "60",
+    "version": "2",
+    "sexo": "Macho",
+    "tipo1": "Agua",
+    "tipo2": "NULL",
+    "forma": "-1"
+  },
+  {
+    "nombre": "Shellos",
+    "numero": "60",
+    "version": "2",
+    "sexo": "Hembra",
+    "tipo1": "Agua",
+    "tipo2": "NULL",
+    "forma": "-1"
+  },
+  {
+    "nombre": "Gastrodon",
+    "numero": "61",
+    "version": "2",
+    "sexo": "Macho",
+    "tipo1": "Agua",
+    "tipo2": "Tierra",
+    "forma": "-1"
+  },
+  {
+    "nombre": "Gastrodon",
+    "numero": "61",
+    "version": "2",
+    "sexo": "Hembra",
+    "tipo1": "Agua",
+    "tipo2": "Tierra",
+    "forma": "-1"
+  },
+  {
+    "nombre": "Heracross",
+    "numero": "62",
+    "version": "2",
+    "sexo": "Indiferente",
+    "tipo1": "Bicho",
+    "tipo2": "Lucha",
+    "forma": "-1"
+  },
+  {
+    "nombre": "Aipom",
+    "numero": "63",
+    "version": "2",
+    "sexo": "Indiferente",
+    "tipo1": "Normal",
+    "tipo2": "NULL",
+    "forma": "-1"
+  },
+  {
+    "nombre": "Ambipom",
+    "numero": "64",
+    "version": "2",
+    "sexo": "Indiferente",
+    "tipo1": "Normal",
+    "tipo2": "NULL",
+    "forma": "-1"
+  },
+  {
+    "nombre": "Drifloon",
+    "numero": "65",
+    "version": "2",
+    "sexo": "Indiferente",
+    "tipo1": "Fantasma",
+    "tipo2": "Volador",
+    "forma": "-1"
+  },
+  {
+    "nombre": "Drifblim",
+    "numero": "66",
+    "version": "2",
+    "sexo": "Indiferente",
+    "tipo1": "Fantasma",
+    "tipo2": "Volador",
+    "forma": "-1"
+  },
+  {
+    "nombre": "Buneary",
+    "numero": "67",
+    "version": "2",
+    "sexo": "Indiferente",
+    "tipo1": "Normal",
+    "tipo2": "NULL",
+    "forma": "-1"
+  },
+  {
+    "nombre": "Lopunny",
+    "numero": "68",
+    "version": "2",
+    "sexo": "Indiferente",
+    "tipo1": "Normal",
+    "tipo2": "NULL",
+    "forma": "-1"
+  },
+  {
+    "nombre": "Gastly",
+    "numero": "69",
+    "version": "2",
+    "sexo": "Indiferente",
+    "tipo1": "Fantasma",
+    "tipo2": "Veneno",
+    "forma": "-1"
+  },
+  {
+    "nombre": "Haunter",
+    "numero": "70",
+    "version": "2",
+    "sexo": "Indiferente",
+    "tipo1": "Fantasma",
+    "tipo2": "Veneno",
+    "forma": "-1"
+  },
+  {
+    "nombre": "Gengar",
+    "numero": "71",
+    "version": "2",
+    "sexo": "Indiferente",
+    "tipo1": "Fantasma",
+    "tipo2": "Veneno",
+    "forma": "-1"
+  },
+  {
+    "nombre": "Misdreavus",
+    "numero": "72",
+    "version": "1",
+    "sexo": "Indiferente",
+    "tipo1": "Fantasma",
+    "tipo2": "NULL",
+    "forma": "-1"
+  },
+  {
+    "nombre": "Mismagius",
+    "numero": "73",
+    "version": "1",
+    "sexo": "Indiferente",
+    "tipo1": "Fantasma",
+    "tipo2": "NULL",
+    "forma": "-1"
+  },
+  {
+    "nombre": "Murkrow",
+    "numero": "74",
+    "version": "0",
+    "sexo": "Indiferente",
+    "tipo1": "Siniestro",
+    "tipo2": "Volador",
+    "forma": "-1"
+  },
+  {
+    "nombre": "Honchkrow",
+    "numero": "75",
+    "version": "0",
+    "sexo": "Indiferente",
+    "tipo1": "Siniestro",
+    "tipo2": "Normal",
+    "forma": "-1"
+  },
+  {
+    "nombre": "Glameow",
+    "numero": "76",
+    "version": "1",
+    "sexo": "Indiferente",
+    "tipo1": "Normal",
+    "tipo2": "NULL",
+    "forma": "-1"
+  },
+  {
+    "nombre": "Purugly",
+    "numero": "77",
+    "version": "1",
+    "sexo": "Indiferente",
+    "tipo1": "Normal",
+    "tipo2": "NULL",
+    "forma": "-1"
+  },
+  {
+    "nombre": "Goldeen",
+    "numero": "78",
+    "version": "2",
+    "sexo": "Indiferente",
+    "tipo1": "Agua",
+    "tipo2": "NULL",
+    "forma": "-1"
+  },
+  {
+    "nombre": "Seaking",
+    "numero": "79",
+    "version": "2",
+    "sexo": "Indiferente",
+    "tipo1": "Agua",
+    "tipo2": "NULL",
+    "forma": "-1"
+  },
+  {
+    "nombre": "Barboach",
+    "numero": "80",
+    "version": "2",
+    "sexo": "Indiferente",
+    "tipo1": "Agua",
+    "tipo2": "Tierra",
+    "forma": "-1"
+  },
+  {
+    "nombre": "Whiscash",
+    "numero": "81",
+    "version": "2",
+    "sexo": "Indiferente",
+    "tipo1": "Agua",
+    "tipo2": "Tierra",
+    "forma": "-1"
+  },
+  {
+    "nombre": "Chingling",
+    "numero": "82",
+    "version": "2",
+    "sexo": "Indiferente",
+    "tipo1": "Psiquico",
+    "tipo2": "NULL",
+    "forma": "-1"
+  },
+  {
+    "nombre": "Chimecho",
+    "numero": "83",
+    "version": "2",
+    "sexo": "Indiferente",
+    "tipo1": "Psiquico",
+    "tipo2": "NULL",
+    "forma": "-1"
+  },
+  {
+    "nombre": "Stunky",
+    "numero": "84",
+    "version": "0",
+    "sexo": "Indiferente",
+    "tipo1": "Veneno",
+    "tipo2": "Siniestro",
+    "forma": "-1"
+  },
+  {
+    "nombre": "Skuntank",
+    "numero": "85",
+    "version": "0",
+    "sexo": "Indiferente",
+    "tipo1": "Veneno",
+    "tipo2": "Siniestro",
+    "forma": "-1"
+  },
+  {
+    "nombre": "Meditite",
+    "numero": "86",
+    "version": "2",
+    "sexo": "Indiferente",
+    "tipo1": "Lucha",
+    "tipo2": "Psiquico",
+    "forma": "-1"
+  },
+  {
+    "nombre": "Medicham",
+    "numero": "87",
+    "version": "2",
+    "sexo": "Indiferente",
+    "tipo1": "Lucha",
+    "tipo2": "Psiquico",
+    "forma": "-1"
+  },
+  {
+    "nombre": "Bronzor",
+    "numero": "88",
+    "version": "2",
+    "sexo": "Indiferente",
+    "tipo1": "Acero",
+    "tipo2": "Psiquico",
+    "forma": "-1"
+  },
+  {
+    "nombre": "Bronzong",
+    "numero": "89",
+    "version": "2",
+    "sexo": "Indiferente",
+    "tipo1": "Acero",
+    "tipo2": "Psiquico",
+    "forma": "-1"
+  },
+  {
+    "nombre": "Ponyta",
+    "numero": "90",
+    "version": "2",
+    "sexo": "Indiferente",
+    "tipo1": "Fuego",
+    "tipo2": "NULL",
+    "forma": "-1"
+  },
+  {
+    "nombre": "Rapidash",
+    "numero": "91",
+    "version": "2",
+    "sexo": "Indiferente",
+    "tipo1": "Fuego",
+    "tipo2": "NULL",
+    "forma": "-1"
+  },
+  {
+    "nombre": "Bonsly",
+    "numero": "92",
+    "version": "2",
+    "sexo": "Indiferente",
+    "tipo1": "Roca",
+    "tipo2": "NULL",
+    "forma": "-1"
+  },
+  {
+    "nombre": "Sudowoodo",
+    "numero": "93",
+    "version": "2",
+    "sexo": "Indiferente",
+    "tipo1": "Roca",
+    "tipo2": "NULL",
+    "forma": "-1"
+  },
+  {
+    "nombre": "Mime Jr.",
+    "numero": "94",
+    "version": "2",
+    "sexo": "Indiferente",
+    "tipo1": "Psiquico",
+    "tipo2": "NULL",
+    "forma": "-1"
+  },
+  {
+    "nombre": "Mr. Mime",
+    "numero": "95",
+    "version": "2",
+    "sexo": "Indiferente",
+    "tipo1": "Psiquico",
+    "tipo2": "NULL",
+    "forma": "-1"
+  },
+  {
+    "nombre": "Happiny",
+    "numero": "96",
+    "version": "2",
+    "sexo": "Indiferente",
+    "tipo1": "Normal",
+    "tipo2": "NULL",
+    "forma": "-1"
+  },
+  {
+    "nombre": "Chansey",
+    "numero": "97",
+    "version": "2",
+    "sexo": "Indiferente",
+    "tipo1": "Normal",
+    "tipo2": "NULL",
+    "forma": "-1"
+  },
+  {
+    "nombre": "Blissey",
+    "numero": "98",
+    "version": "2",
+    "sexo": "Indiferente",
+    "tipo1": "Normal",
+    "tipo2": "NULL",
+    "forma": "-1"
+  },
+  {
+    "nombre": "Cleffa",
+    "numero": "99",
+    "version": "2",
+    "sexo": "Indiferente",
+    "tipo1": "Normal",
+    "tipo2": "NULL",
+    "forma": "-1"
+  },
+  {
+    "nombre": "Clefairy",
+    "numero": "100",
+    "version": "2",
+    "sexo": "Indiferente",
+    "tipo1": "Normal",
+    "tipo2": "NULL",
+    "forma": "-1"
+  },
+  {
+    "nombre": "Clefable",
+    "numero": "101",
+    "version": "2",
+    "sexo": "Indiferente",
+    "tipo1": "Normal",
+    "tipo2": "NULL",
+    "forma": "-1"
+  },
+  {
+    "nombre": "Chatot",
+    "numero": "102",
+    "version": "2",
+    "sexo": "Indiferente",
+    "tipo1": "Normal",
+    "tipo2": "Volador",
+    "forma": "-1"
+  },
+  {
+    "nombre": "Pichu",
+    "numero": "103",
+    "version": "2",
+    "sexo": "Indiferente",
+    "tipo1": "Electrico",
+    "tipo2": "NULL",
+    "forma": "-1"
+  },
+  {
+    "nombre": "Pikachu",
+    "numero": "104",
+    "version": "2",
+    "sexo": "Indiferente",
+    "tipo1": "Electrico",
+    "tipo2": "NULL",
+    "forma": "-1"
+  },
+  {
+    "nombre": "Raichu",
+    "numero": "105",
+    "version": "2",
+    "sexo": "Indiferente",
+    "tipo1": "Electrico",
+    "tipo2": "NULL",
+    "forma": "-1"
+  },
+  {
+    "nombre": "Hoothoot",
+    "numero": "106",
+    "version": "2",
+    "sexo": "Indiferente",
+    "tipo1": "Normal",
+    "tipo2": "Volador",
+    "forma": "-1"
+  },
+  {
+    "nombre": "Noctowl",
+    "numero": "107",
+    "version": "2",
+    "sexo": "Indiferente",
+    "tipo1": "Normal",
+    "tipo2": "Volador",
+    "forma": "-1"
+  },
+  {
+    "nombre": "Spiritomb",
+    "numero": "108",
+    "version": "2",
+    "sexo": "Indiferente",
+    "tipo1": "Fantasma",
+    "tipo2": "Siniestro",
+    "forma": "-1"
+  },
+  {
+    "nombre": "Gible",
+    "numero": "109",
+    "version": "2",
+    "sexo": "Indiferente",
+    "tipo1": "Dragon",
+    "tipo2": "Tierra",
+    "forma": "-1"
+  },
+  {
+    "nombre": "Gabite",
+    "numero": "110",
+    "version": "2",
+    "sexo": "Indiferente",
+    "tipo1": "Dragon",
+    "tipo2": "Tierra",
+    "forma": "-1"
+  },
+  {
+    "nombre": "Garchomp",
+    "numero": "111",
+    "version": "2",
+    "sexo": "Indiferente",
+    "tipo1": "Dragon",
+    "tipo2": "Tierra",
+    "forma": "-1"
+  },
+  {
+    "nombre": "Munchlax",
+    "numero": "112",
+    "version": "2",
+    "sexo": "Indiferente",
+    "tipo1": "Normal",
+    "tipo2": "NULL",
+    "forma": "-1"
+  },
+  {
+    "nombre": "Snorlax",
+    "numero": "113",
+    "version": "2",
+    "sexo": "Indiferente",
+    "tipo1": "Normal",
+    "tipo2": "NULL",
+    "forma": "-1"
+  },
+  {
+    "nombre": "Unown",
+    "numero": "114",
+    "version": "2",
+    "sexo": "Indiferente",
+    "tipo1": "Psiquico",
+    "tipo2": "NULL",
+    "forma": "-1"
+  },
+  {
+    "nombre": "Riolu",
+    "numero": "115",
+    "version": "2",
+    "sexo": "Indiferente",
+    "tipo1": "Lucha",
+    "tipo2": "NULL",
+    "forma": "-1"
+  },
+  {
+    "nombre": "Lucario",
+    "numero": "116",
+    "version": "2",
+    "sexo": "Indiferente",
+    "tipo1": "Lucha",
+    "tipo2": "Acero",
+    "forma": "-1"
+  },
+  {
+    "nombre": "Wooper",
+    "numero": "117",
+    "version": "2",
+    "sexo": "Indiferente",
+    "tipo1": "Agua",
+    "tipo2": "Tierra",
+    "forma": "-1"
+  },
+  {
+    "nombre": "Quagsire",
+    "numero": "118",
+    "version": "2",
+    "sexo": "Indiferente",
+    "tipo1": "Agua",
+    "tipo2": "Tierra",
+    "forma": "-1"
+  },
+  {
+    "nombre": "Wingull",
+    "numero": "119",
+    "version": "2",
+    "sexo": "Indiferente",
+    "tipo1": "Agua",
+    "tipo2": "Volador",
+    "forma": "-1"
+  },
+  {
+    "nombre": "Pelipper",
+    "numero": "120",
+    "version": "2",
+    "sexo": "Indiferente",
+    "tipo1": "Agua",
+    "tipo2": "Volador",
+    "forma": "-1"
+  },
+  {
+    "nombre": "Girafarig",
+    "numero": "121",
+    "version": "2",
+    "sexo": "Indiferente",
+    "tipo1": "Normal",
+    "tipo2": "Psiquico",
+    "forma": "-1"
+  },
+  {
+    "nombre": "Hippopotas",
+    "numero": "122",
+    "version": "2",
+    "sexo": "Indiferente",
+    "tipo1": "Tierra",
+    "tipo2": "NULL",
+    "forma": "-1"
+  },
+  {
+    "nombre": "Hippowdon",
+    "numero": "123",
+    "version": "2",
+    "sexo": "Indiferente",
+    "tipo1": "Tierra",
+    "tipo2": "NULL",
+    "forma": "-1"
+  },
+  {
+    "nombre": "Azurill",
+    "numero": "124",
+    "version": "2",
+    "sexo": "Indiferente",
+    "tipo1": "Normal",
+    "tipo2": "NULL",
+    "forma": "-1"
+  },
+  {
+    "nombre": "Marill",
+    "numero": "125",
+    "version": "2",
+    "sexo": "Indiferente",
+    "tipo1": "Agua",
+    "tipo2": "NULL",
+    "forma": "-1"
+  },
+  {
+    "nombre": "Azumarill",
+    "numero": "126",
+    "version": "2",
+    "sexo": "Indiferente",
+    "tipo1": "Agua",
+    "tipo2": "NULL",
+    "forma": "-1"
+  },
+  {
+    "nombre": "Skorupi",
+    "numero": "127",
+    "version": "2",
+    "sexo": "Indiferente",
+    "tipo1": "Veneno",
+    "tipo2": "Bicho",
+    "forma": "-1"
+  },
+  {
+    "nombre": "Drapion",
+    "numero": "128",
+    "version": "2",
+    "sexo": "Indiferente",
+    "tipo1": "Veneno",
+    "tipo2": "Siniestro",
+    "forma": "-1"
+  },
+  {
+    "nombre": "Croagunk",
+    "numero": "129",
+    "version": "2",
+    "sexo": "Indiferente",
+    "tipo1": "Veneno",
+    "tipo2": "Lucha",
+    "forma": "-1"
+  },
+  {
+    "nombre": "Toxicroak",
+    "numero": "130",
+    "version": "2",
+    "sexo": "Indiferente",
+    "tipo1": "Veneno",
+    "tipo2": "Lucha",
+    "forma": "-1"
+  },
+  {
+    "nombre": "Carnivine",
+    "numero": "131",
+    "version": "2",
+    "sexo": "Indiferente",
+    "tipo1": "Planta",
+    "tipo2": "NULL",
+    "forma": "-1"
+  },
+  {
+    "nombre": "Remoraid",
+    "numero": "132",
+    "version": "2",
+    "sexo": "Indiferente",
+    "tipo1": "Agua",
+    "tipo2": "NULL",
+    "forma": "-1"
+  },
+  {
+    "nombre": "Octillery",
+    "numero": "133",
+    "version": "2",
+    "sexo": "Indiferente",
+    "tipo1": "Agua",
+    "tipo2": "NULL",
+    "forma": "-1"
+  },
+  {
+    "nombre": "Finneon",
+    "numero": "134",
+    "version": "2",
+    "sexo": "Indiferente",
+    "tipo1": "Agua",
+    "tipo2": "NULL",
+    "forma": "-1"
+  },
+  {
+    "nombre": "Lumineon",
+    "numero": "135",
+    "version": "2",
+    "sexo": "Indiferente",
+    "tipo1": "Agua",
+    "tipo2": "NULL",
+    "forma": "-1"
+  },
+  {
+    "nombre": "Tentacool",
+    "numero": "136",
+    "version": "2",
+    "sexo": "Indiferente",
+    "tipo1": "Agua",
+    "tipo2": "Veneno",
+    "forma": "-1"
+  },
+  {
+    "nombre": "Tentacruel",
+    "numero": "137",
+    "version": "2",
+    "sexo": "Indiferente",
+    "tipo1": "Agua",
+    "tipo2": "Veneno",
+    "forma": "-1"
+  },
+  {
+    "nombre": "Feebas",
+    "numero": "138",
+    "version": "2",
+    "sexo": "Indiferente",
+    "tipo1": "Agua",
+    "tipo2": "NULL",
+    "forma": "-1"
+  },
+  {
+    "nombre": "Milotic",
+    "numero": "139",
+    "version": "2",
+    "sexo": "Indiferente",
+    "tipo1": "Agua",
+    "tipo2": "NULL",
+    "forma": "-1"
+  },
+  {
+    "nombre": "Mantyke",
+    "numero": "140",
+    "version": "2",
+    "sexo": "Indiferente",
+    "tipo1": "Agua",
+    "tipo2": "Volador",
+    "forma": "-1"
+  },
+  {
+    "nombre": "Mantine",
+    "numero": "141",
+    "version": "2",
+    "sexo": "Indiferente",
+    "tipo1": "Agua",
+    "tipo2": "Volador",
+    "forma": "-1"
+  },
+  {
+    "nombre": "Snover",
+    "numero": "142",
+    "version": "2",
+    "sexo": "Indiferente",
+    "tipo1": "Planta",
+    "tipo2": "Hielo",
+    "forma": "-1"
+  },
+  {
+    "nombre": "Abomasnow",
+    "numero": "143",
+    "version": "2",
+    "sexo": "Indiferente",
+    "tipo1": "Planta",
+    "tipo2": "Hielo",
+    "forma": "-1"
+  },
+  {
+    "nombre": "Sneasel",
+    "numero": "144",
+    "version": "2",
+    "sexo": "Indiferente",
+    "tipo1": "Siniestro",
+    "tipo2": "Hielo",
+    "forma": "-1"
+  },
+  {
+    "nombre": "Weavile",
+    "numero": "145",
+    "version": "2",
+    "sexo": "Indiferente",
+    "tipo1": "Siniestro",
+    "tipo2": "Hielo",
+    "forma": "-1"
+  },
+  {
+    "nombre": "Uxie",
+    "numero": "146",
+    "version": "2",
+    "sexo": "Indiferente",
+    "tipo1": "Psiquico",
+    "tipo2": "NULL",
+    "forma": "-1"
+  },
+  {
+    "nombre": "Mesprit",
+    "numero": "147",
+    "version": "2",
+    "sexo": "Indiferente",
+    "tipo1": "Psiquico",
+    "tipo2": "NULL",
+    "forma": "-1"
+  },
+  {
+    "nombre": "Azelf",
+    "numero": "148",
+    "version": "2",
+    "sexo": "Indiferente",
+    "tipo1": "Psiquico",
+    "tipo2": "NULL",
+    "forma": "-1"
+  },
+  {
+    "nombre": "Dialga",
+    "numero": "149",
+    "version": "0",
+    "sexo": "Indiferente",
+    "tipo1": "Acero",
+    "tipo2": "Dragon",
+    "forma": "-1"
+  },
+  {
+    "nombre": "Palkia",
+    "numero": "150",
+    "version": "1",
+    "sexo": "Indiferente",
+    "tipo1": "Agua",
+    "tipo2": "Dragon",
+    "forma": "-1"
+  },
+  {
+    "nombre": "Manaphy",
+    "numero": "151",
+    "version": "2",
+    "sexo": "Indiferente",
+    "tipo1": "Agua",
+    "tipo2": "NULL",
+    "forma": "-1"
+  }
+]

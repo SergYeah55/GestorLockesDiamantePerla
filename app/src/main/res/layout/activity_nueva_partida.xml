@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/fondolargo"
+    tools:context=".NuevaPartidaActivity">
+
+    <ImageButton
+        android:id="@+id/infoButonNuevaPartida"
+        android:layout_width="44dp"
+        android:layout_height="39dp"
+        android:layout_marginTop="32dp"
+        android:background="@android:color/transparent"
+        android:foreground="@drawable/infobuton"
+        app:layout_constraintStart_toEndOf="@+id/salirButonNuevaPartida"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageButton
+        android:id="@+id/salirButonNuevaPartida"
+        android:layout_width="43dp"
+        android:layout_height="39dp"
+        android:layout_marginStart="28dp"
+        android:layout_marginTop="32dp"
+        android:background="@android:color/transparent"
+        android:foreground="@drawable/salidabuton"
+        app:layout_constraintBottom_toTopOf="@+id/imagenUsuario"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/enunciadoNuevaPartida"
+        android:layout_width="143dp"
+        android:layout_height="28dp"
+        android:layout_marginStart="36dp"
+        android:layout_marginTop="40dp"
+        android:fontFamily="sans-serif-black"
+        android:text="Nombre partida"
+        android:textColor="#ff3636"
+        android:textSize="16sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/elegirVersion" />
+
+    <View
+        android:id="@+id/separadoraNuevaP"
+        android:layout_width="334dp"
+        android:layout_height="30dp"
+        android:layout_marginTop="20dp"
+        android:background="#ff3636"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/nombreUsuarioNuevaP"
+        tools:ignore="MissingConstraints" />
+
+    <ImageView
+        android:id="@+id/nuevaPartidaLogo"
+        android:layout_width="166dp"
+        android:layout_height="83dp"
+        android:layout_marginStart="48dp"
+        android:layout_marginTop="8dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/separadoraNuevaP"
+        app:srcCompat="@drawable/nuevapartidalogo" />
+
+    <TextView
+        android:id="@+id/nombreUsuarioNuevaP"
+        android:layout_width="252dp"
+        android:layout_height="40dp"
+        android:layout_marginStart="12dp"
+        android:layout_marginTop="156dp"
+        android:fontFamily="sans-serif-black"
+        android:text="TextView"
+        android:textColor="#ff3636"
+        android:textSize="30sp"
+        android:textStyle="bold|italic"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/imagenUsuarioNuevaP"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageButton
+        android:id="@+id/musicaNuevaPartida"
+        android:layout_width="84dp"
+        android:layout_height="53dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="52dp"
+        android:background="@android:color/transparent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.88"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageButton
+        android:id="@+id/imagenUsuarioNuevaP"
+        android:layout_width="180dp"
+        android:layout_height="135dp"
+        android:layout_marginStart="12dp"
+        android:layout_marginTop="72dp"
+        android:background="@android:color/transparent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@android:drawable/btn_star_big_off" />
+
+    <Spinner
+        android:id="@+id/elegirVersion"
+        android:layout_width="200dp"
+        android:layout_height="56dp"
+        android:layout_marginStart="36dp"
+        android:layout_marginTop="16dp"
+        android:background="@drawable/botongenerico"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/nuevaPartidaLogo" />
+
+    <ImageView
+        android:id="@+id/diamanteVersion"
+        android:layout_width="152dp"
+        android:layout_height="168dp"
+        android:layout_marginTop="24dp"
+        android:layout_marginEnd="56dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/elegirVersion"
+        app:srcCompat="@drawable/diamanteversion" />
+
+    <ImageView
+        android:id="@+id/perlaVersion"
+        android:layout_width="150dp"
+        android:layout_height="167dp"
+        android:layout_marginTop="24dp"
+        android:layout_marginEnd="56dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/elegirVersion"
+        app:srcCompat="@drawable/perlaversion" />
+
+    <EditText
+        android:id="@+id/nombreNuevaPartida"
+        android:layout_width="153dp"
+        android:layout_height="45dp"
+        android:layout_marginStart="36dp"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/botongenerico"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:paddingLeft="5dp"
+        android:text="Nombre"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/enunciadoNuevaPartida" />
+
+    <Button
+        android:id="@+id/crearBoton"
+        android:layout_width="130dp"
+        android:layout_height="94dp"
+        android:layout_marginStart="48dp"
+        android:background="@android:color/transparent"
+        android:foreground="@drawable/crearboton"
+        android:text="Crear"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/nombreNuevaPartida"
+        app:layout_constraintVertical_bias="0.106" />
+
+    <Button
+        android:id="@+id/volverBotonNP"
+        android:layout_width="141dp"
+        android:layout_height="86dp"
+        android:layout_marginStart="40dp"
+        android:layout_marginBottom="60dp"
+        android:background="@android:color/transparent"
+        android:foreground="@drawable/volverboton"
+        android:text="Volver"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toEndOf="@+id/crearBoton" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

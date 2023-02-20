@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/fondolargo"
+    tools:context=".PersonalizarActivity">
+
+    <ImageButton
+        android:id="@+id/salirButonPersonalizacion"
+        android:layout_width="43dp"
+        android:layout_height="39dp"
+        android:layout_marginStart="28dp"
+        android:layout_marginTop="32dp"
+        android:background="@android:color/transparent"
+        android:foreground="@drawable/salidabuton"
+        app:layout_constraintBottom_toTopOf="@+id/imagenUsuario"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageButton
+        android:id="@+id/infoButonPersonalizacion"
+        android:layout_width="44dp"
+        android:layout_height="39dp"
+        android:layout_marginTop="32dp"
+        android:background="@android:color/transparent"
+        android:foreground="@drawable/infobuton"
+        app:layout_constraintStart_toEndOf="@+id/salirButonPersonalizacion"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageButton
+        android:id="@+id/musicPersonalizar"
+        android:layout_width="84dp"
+        android:layout_height="53dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="52dp"
+        android:background="@android:color/transparent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.842"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageView
+        android:id="@+id/logoPersonalizacion"
+        android:layout_width="221dp"
+        android:layout_height="75dp"
+        android:layout_marginStart="44dp"
+        android:layout_marginTop="84dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/personalizacionlogo" />
+
+    <Button
+        android:id="@+id/cambioPass"
+        android:layout_width="244dp"
+        android:layout_height="144dp"
+        android:layout_marginStart="48dp"
+        android:layout_marginTop="12dp"
+        android:background="@android:color/transparent"
+        android:foreground="@drawable/cambiarpassboton"
+        android:text="Cambiar contraseña"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/logoPersonalizacion" />
+
+    <EditText
+        android:id="@+id/nuevaPass"
+        android:layout_width="219dp"
+        android:layout_height="55dp"
+        android:layout_marginStart="48dp"
+        android:layout_marginTop="4dp"
+        android:background="@drawable/botongenerico"
+        android:ems="10"
+        android:inputType="textPassword"
+        android:paddingStart="10dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/enunciadoPass" />
+
+    <ImageButton
+        android:id="@+id/validacionPass"
+        android:layout_width="62dp"
+        android:layout_height="64dp"
+        android:layout_marginTop="4dp"
+        android:background="@android:color/transparent"
+        android:foreground="@drawable/okcambiopass"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.034"
+        app:layout_constraintStart_toEndOf="@+id/nuevaPass"
+        app:layout_constraintTop_toBottomOf="@+id/enunciadoPass"
+        app:srcCompat="@android:drawable/btn_star" />
+
+    <TextView
+        android:id="@+id/enunciadoPass"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="48dp"
+        android:layout_marginTop="8dp"
+        android:fontFamily="sans-serif-black"
+        android:text="Escribe la nueva contraseña"
+        android:textColor="#ff3636"
+        android:textSize="16sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/cambioPass" />
+
+    <ImageButton
+        android:id="@+id/opcion4"
+        android:layout_width="74dp"
+        android:layout_height="71dp"
+        android:layout_marginTop="8dp"
+        android:background="@android:color/transparent"
+        app:layout_constraintStart_toEndOf="@+id/opcion3"
+        app:layout_constraintTop_toBottomOf="@+id/cambioImagen"
+        app:srcCompat="@android:drawable/btn_star_big_on" />
+
+    <ImageButton
+        android:id="@+id/opcion2"
+        android:layout_width="83dp"
+        android:layout_height="74dp"
+        android:layout_marginTop="8dp"
+        android:background="@android:color/transparent"
+        app:layout_constraintStart_toEndOf="@+id/opcion1"
+        app:layout_constraintTop_toBottomOf="@+id/cambioImagen"
+        app:srcCompat="@android:drawable/btn_star_big_on" />
+
+    <ImageButton
+        android:id="@+id/opcion1"
+        android:layout_width="85dp"
+        android:layout_height="73dp"
+        android:layout_marginStart="32dp"
+        android:layout_marginTop="8dp"
+        android:background="@android:color/transparent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/cambioImagen"
+        app:srcCompat="@android:drawable/btn_star_big_on" />
+
+    <ImageButton
+        android:id="@+id/opcion3"
+        android:layout_width="78dp"
+        android:layout_height="74dp"
+        android:layout_marginTop="8dp"
+        android:background="@android:color/transparent"
+        app:layout_constraintStart_toEndOf="@+id/opcion2"
+        app:layout_constraintTop_toBottomOf="@+id/cambioImagen"
+        app:srcCompat="@android:drawable/btn_star_big_on" />
+
+    <Button
+        android:id="@+id/cambioImagen"
+        android:layout_width="206dp"
+        android:layout_height="109dp"
+        android:layout_marginStart="48dp"
+        android:layout_marginTop="100dp"
+        android:background="@android:color/transparent"
+        android:foreground="@drawable/cambiarimagenboton"
+        android:text="Cambiar imagen"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/cambioPass" />
+
+    <Button
+        android:id="@+id/volverPersonalizar"
+        android:layout_width="151dp"
+        android:layout_height="98dp"
+        android:background="@android:color/transparent"
+        android:foreground="@drawable/volverboton"
+        android:text="Volver"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/cambioImagen"
+        app:layout_constraintVertical_bias="0.685" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

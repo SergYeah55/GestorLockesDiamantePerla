@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/fondolargo"
+    tools:context=".PokemonPropiosActivity">
+
+    <ImageButton
+        android:id="@+id/infoButonPokemonP"
+        android:layout_width="44dp"
+        android:layout_height="39dp"
+        android:layout_marginTop="32dp"
+        android:background="@android:color/transparent"
+        android:foreground="@drawable/infobuton"
+        app:layout_constraintStart_toEndOf="@+id/salirButonPokemonP"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageButton
+        android:id="@+id/salirButonPokemonP"
+        android:layout_width="43dp"
+        android:layout_height="39dp"
+        android:layout_marginStart="28dp"
+        android:layout_marginTop="32dp"
+        android:background="@android:color/transparent"
+        android:foreground="@drawable/salidabuton"
+        app:layout_constraintBottom_toTopOf="@+id/imagenUsuario"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageView
+        android:id="@+id/edicionPokemonP"
+        android:layout_width="50dp"
+        android:layout_height="48dp"
+        app:layout_constraintBottom_toTopOf="@+id/nombreUsuarioPokemonP"
+        app:layout_constraintEnd_toStartOf="@+id/musicaPokemonPropios"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="@+id/nombreUsuarioPokemonP" />
+
+    <TextView
+        android:id="@+id/nombreUsuarioPokemonP"
+        android:layout_width="252dp"
+        android:layout_height="40dp"
+        android:layout_marginTop="120dp"
+        android:fontFamily="sans-serif-black"
+        android:text="TextView"
+        android:textColor="#ff3636"
+        android:textSize="30sp"
+        android:textStyle="bold|italic"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toEndOf="@+id/imagenUsuarioPokemonP"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/nombrePartidaPokemonP"
+        android:layout_width="248dp"
+        android:layout_height="37dp"
+        android:layout_marginTop="4dp"
+        android:fontFamily="sans-serif-condensed-light"
+        android:text="TextView"
+        android:textColor="#000000"
+        android:textSize="25sp"
+        android:textStyle="bold|italic"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toEndOf="@+id/imagenUsuarioPokemonP"
+        app:layout_constraintTop_toBottomOf="@+id/nombreUsuarioPokemonP" />
+
+    <View
+        android:id="@+id/separadoraPokemonP"
+        android:layout_width="334dp"
+        android:layout_height="30dp"
+        android:layout_marginTop="12dp"
+        android:background="#ff3636"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.493"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/nombrePartidaPokemonP"
+        tools:ignore="MissingConstraints" />
+
+    <ImageButton
+        android:id="@+id/musicaPokemonPropios"
+        android:layout_width="84dp"
+        android:layout_height="53dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="52dp"
+        android:background="@android:color/transparent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.842"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageButton
+        android:id="@+id/imagenUsuarioPokemonP"
+        android:layout_width="180dp"
+        android:layout_height="135dp"
+        android:layout_marginStart="12dp"
+        android:layout_marginTop="72dp"
+        android:background="@android:color/transparent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@android:drawable/btn_star_big_off" />
+
+    <ImageView
+        android:id="@+id/logoPokemonPropios"
+        android:layout_width="187dp"
+        android:layout_height="64dp"
+        android:layout_marginStart="48dp"
+        android:layout_marginTop="20dp"
+        android:background="@android:color/transparent"
+        android:foreground="@drawable/capturaslogo"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/separadoraPokemonP" />
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recyclerViewPokemonP"
+        android:layout_width="317dp"
+        android:layout_height="200dp"
+        android:layout_marginTop="8dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.505"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/logoPokemonPropios" />
+
+    <Button
+        android:id="@+id/volverDePokemonP"
+        android:layout_width="152dp"
+        android:layout_height="97dp"
+        android:layout_marginBottom="76dp"
+        android:background="@android:color/transparent"
+        android:foreground="@drawable/volverboton"
+        android:text="Button"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
